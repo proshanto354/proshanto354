@@ -3,9 +3,9 @@
 
 -  Turning curiosity into code
 -  Learning Web Development, building for the future
+  
 
-
-Skills: C / C++ / Dart 
+# Skills: C / C++ / Dart 
 
 -  I’m currently working on Safe_her project  
 -  I’m currently learning Dart  
