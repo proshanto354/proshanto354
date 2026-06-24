@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Proshanto Das
+# Hi, I'm Proshanto Das
 #### Student of Netrokona University, Netrokona 2400
 -  CSE Student @ Netrokona University
 -  Turning curiosity into code
