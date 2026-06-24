@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Proshanto Das
 #### Student of Netrokona University, Netrokona 2400
-💻 CSE Student @ Netrokona University
-🚀 Turning curiosity into code
-🌱 Learning Web Development, building for the future
+- 💻 CSE Student @ Netrokona University
+- 🚀 Turning curiosity into code
+- 🌱 Learning Web Development, building for the future
 
 
 Skills: C / C++ / Dart 
