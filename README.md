@@ -1,6 +1,6 @@
 # Hi, I'm Proshanto Das
-#### Student of Netrokona University, Netrokona 2400
--  CSE Student @ Netrokona University
+### I am a third-year Computer Science and Engineering (CSE) student at Netrokona University, Netrokona, Bangladesh. I am passionate about technology, software development, and continuous learning.
+
 -  Turning curiosity into code
 -  Learning Web Development, building for the future
 
