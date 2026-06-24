@@ -1,16 +1,16 @@
 ### Hi there 👋, I'm Proshanto Das
 #### Student of Netrokona University, Netrokona 2400
-- 💻 CSE Student @ Netrokona University
-- 🚀 Turning curiosity into code
-- 🌱 Learning Web Development, building for the future
+-  CSE Student @ Netrokona University
+-  Turning curiosity into code
+-  Learning Web Development, building for the future
 
 
 Skills: C / C++ / Dart 
 
-- 🔭 I’m currently working on Safe_her project  
-- 🌱 I’m currently learning Dart  
-- 👯 I’m looking to collaborate on gitup 
-- 💬 Ask me about Flutter & Fierbase 
+-  I’m currently working on Safe_her project  
+-  I’m currently learning Dart  
+-  I’m looking to collaborate on gitup 
+-  Ask me about Flutter & Fierbase 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/proshanto354)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Proshanto Das (Joy) )  
